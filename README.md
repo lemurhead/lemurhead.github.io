@@ -1,5 +1,5 @@
 # lemurhead.github.io
-# where lemurheads furture projects will be
+# where lemurheads future projects will be
 # things I like to do
 * eat food
 * sleep
