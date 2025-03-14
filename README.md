@@ -1,3 +1,6 @@
 # lemurhead.github.io
 # where lemurheads furture projects will be
-# Lily tihon stink
+# things I like to do
+* eat food
+* sleep
+* play video games
